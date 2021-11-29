@@ -1,0 +1,49 @@
+{
+  "promotion": {
+    "title_text" : "Fresh Chicken Fry $423",
+    "content" : " Rich in nutritional value",
+    "poster_imageurl": "https://st2.depositphotos.com/1031681/5785/i/950/depositphotos_57858061-stock-photo-fried-chicken-wings-in-batter.jpg"
+  },
+  "popular": [
+    {
+      "food_name": "Fresh Chicken Fry",
+      "ingredients": "Chicken + Vegetables + Oats",
+      "imageUrl": "https://st2.depositphotos.com/1031681/5785/i/950/depositphotos_57858061-stock-photo-fried-chicken-wings-in-batter.jpg"
+    },
+    {
+      "food_name": "Pasta Pomodoro",
+      "ingredients": "Pasta + Lettuce + Tomatoes",
+      "imageUrl": "https://assets.bonappetit.com/photos/5b9009799915d52d4edc0f73/5:4/w_4165,h_3332,c_limit/basically-pasta-pomodoro-1.jpg"
+    },
+    {
+      "food_name": "Rice Fry",
+      "ingredients": "Rice + Ketchup",
+      "imageUrl": "https://www.simplyrecipes.com/thmb/deUc73evxfNyQaRQgc9gVZ1ha9A=/2000x1335/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2017__12__2017-12-Chicken-Fried-Rice-2-15ac7014b47b40a1a7c7e20a638f4295.jpg"
+    },
+    {
+      "food_name": "Chicken Fry",
+      "ingredients": "Chicken + Sauce + Onions",
+      "imageUrl": "https://www.masala.tv/wp-content/uploads/2020/06/Crispy-chicken-fry-548.jpg"
+    },
+    {
+      "food_name": "Choco Lava Cake",
+      "ingredients": "Chocolate + Vanilla",
+      "imageUrl": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/dessert-main-image-molten-cake-0fbd4f2.jpg"
+    },
+    {
+      "food_name": "Honey Cake",
+      "ingredients": "Honey + Strawberries",
+      "imageUrl": "https://www.tasteofhome.com/wp-content/uploads/2019/05/Fried-Ice-Cream-Dessert-Bars-_EXPS_SDJJ19_232652_B02_06_1b_rms.jpg"
+    },
+    {
+      "food_name": "Lemon Tea",
+      "ingredients": "Lemon + Ice + Honey",
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/drinks-to-avoid-1621959532.jpg?crop=1.00xw:0.752xh;0,0.142xh&resize=1200:*"
+    },
+    {
+      "food_name": "Cocktail",
+      "ingredients": "Orange + Ice + Berries",
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/watermelon-hugo-mojito-in-glasses-with-drinking-royalty-free-image-1589995765.jpg"
+    }
+  ]
+}
